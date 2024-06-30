@@ -1,7 +1,7 @@
 numpy 
 matplotlib
 pandas
-Pillow==9.2.0 
+Pillow==10.3.0 
 tensorflow==2.15.*
 ipykernel
 flask
