@@ -1,3 +1,6 @@
 [submodule "PassGan"]
 	path = PassGan
 	url = git@github.com:jsotiro/PassGAN.git
+[submodule "PassGAN"]
+	path = PassGAN
+	url = git@github.com:jsotiro/PassGAN.git
