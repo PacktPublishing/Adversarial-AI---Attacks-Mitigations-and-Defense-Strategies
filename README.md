@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
+
 # Adversarial AI Attacks, Mitigations, and Defense Strategies
 <a href="https://www.packtpub.com/en-us/product/adversarial-ai-attacks-mitigations-and-defense-strategies-9781835087985?utm_source=github&utm_medium=repository&utm_campaign=9781801076012"><img src="https://content.packt.com/B21235/cover_image_small.jpg" alt="Adversarial AI Attacks, Mitigations, and Defense Strategies" height="256px" align="right"></a>
 
